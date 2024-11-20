@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Hotel_Kashyyk_2_Team_5",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Hotel_Kashyyk_2_Team_5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Hotel_Kashyyk_2_Team_5-Debug-b8998aca661f3f2dd457.json",
+					"name" : "Hotel_Kashyyk_2_Team_5",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/charlie.benson24/Documents/Hotel-Kashyyk-2-Team-5/cmake-build-debug",
+		"source" : "C:/Users/charlie.benson24/Documents/Hotel-Kashyyk-2-Team-5"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
